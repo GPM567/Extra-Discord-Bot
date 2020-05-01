@@ -3,6 +3,6 @@
 
 # Python Version == 3.6.5
 
-#Discord-Server
+# Discord-Server
 
 [서버 바로가기](https://discord.gg/HerTmj5)
