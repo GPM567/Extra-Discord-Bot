@@ -3,6 +3,7 @@
 
 # 모듈들
 Python 버전 == 3.6.5  
+discord.py == 1.4.0
 Requirements.txt를 확인하세요
 
 
