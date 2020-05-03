@@ -1,4 +1,4 @@
-# Basic-Python-DiscordBot
+# Extra-Discord-Bot
 파이썬 기반 여러가지 기능을 가진 공개 봇을 만들어요
 
 # 모듈들
